@@ -21,8 +21,8 @@ class SendEmailController extends Controller
                 'numberofpeople' => $request->post('numberofpeople'),
                 'date' => $request->post('date') ],
                 function ($message) {
-                        $message->from('basecravefood@gmail.com');
-                        $message->to('basecravefood@gmail.com', 'Basecrave')
+                        $message->from('pbishal1995@gmail.com');
+                        $message->to('pbishal1995@gmail.com', 'Basecrave')
                         ->subject('Reservation');
         });
 

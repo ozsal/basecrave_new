@@ -1,0 +1,108 @@
+.email_image {   
+    position: absolute;   
+    top: 0px;   
+    left: 0px;   
+    width: 1440px;   
+    height: 339px;   
+    border-radius: 0px; 
+}
+
+.text1 {   
+    position: absolute;   
+    top: 374px;   left: 59px;   
+    font-family: Inter;   
+    font-size: 24px;   
+    line-height: 36px;   
+    color: #ED7D2DFF;
+ }
+
+ .text2 {   
+    position: absolute;   
+    top: 428px;   
+    left: 59px;     
+    font-family: Inter;   
+    font-size: 18px;   
+    line-height: 28px;   
+    color: #171A1FFF; 
+}
+
+.text3 {   
+    position: absolute;   
+    top: 478px;   
+    left: 59px;   
+    font-family: Inter;   
+    font-size: 16px;   
+    line-height: 26px;   
+    color: #171A1FFF;
+ }
+
+ .text4 {   
+    position: absolute;   
+    top: 517px;   
+    left: 59px;   
+    font-family: Inter;   
+    font-size: 16px;   
+    line-height: 26px;   
+    color: #171A1FFF; 
+}
+
+.text5 {   
+    position: absolute;   
+    top: 517px;   
+    left: 59px;   
+    font-family: Inter;   
+    font-size: 16px;   
+    line-height: 26px;   
+    color: #171A1FFF;
+ }
+
+ .text6 {   
+    position: absolute;   
+    top: 595px;   
+    left: 59px;   
+    font-family: Inter;   
+    font-size: 16px;   
+    line-height: 26px;   
+    color: #171A1FFF; 
+}
+
+.text7 {   
+    position: absolute;  
+    top: 634px;   
+    left: 59px;   
+    font-family: Inter;   
+    font-size: 16px;   
+    line-height: 26px;   
+    color: #171A1FFF; 
+}
+
+.text8 {   
+    position: absolute;     
+    top: 685px;   
+    left: 648px;   
+    width: 162px;   
+    height: 31px;   
+    font-family: Inter;   
+    font-size: 18px;   
+    line-height: 28px;   
+    color: #171A1FFF; 
+}
+
+.text9 {   
+    position: absolute;   
+    top: 716px;   
+    left: 263px;   
+    font-family: Inter;   
+    font-size: 18px;   
+    line-height: 28px;   
+    color: #9095A0FF; 
+}
+
+.email_logo {   
+    position: absolute;   
+    top: 744px;   
+    left: 1074px;   
+    width: 366px;   
+    height: 156px;   
+    border-radius: 0px;
+ }
