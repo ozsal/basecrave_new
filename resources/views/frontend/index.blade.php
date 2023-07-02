@@ -157,7 +157,7 @@
 
       <div class="filters-content">
         <div class="row grid">
-          @foreach($subcategories as $subcategory)
+          @foreach($subcategories->take(6) as $subcategory)
           <?php $categoriesname = preg_replace('/\s+/', '', 
           $subcategory->subcategories->categories_name); ?>
           <a href="{{route('frontend.detail', $subcategory->id)}}">
