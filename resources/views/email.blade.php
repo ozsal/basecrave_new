@@ -2,7 +2,7 @@
 <html>
 
 <body>
-    <img src="{{URL::asset('background.png')}}" alt="basecrave" class="email_image" 
+    <img src="../background.png" alt="basecrave" class="email_image" 
         style="position: absolute; top: 0px;left: 0px;   width: 1440px;   height: 339px;   border-radius: 0px; ">
     <p class="text" style="position: absolute;   top: 374px;   left: 59px;   font-family: Inter;   
         font-size: 24px;   line-height: 36px;   color: #ED7D2DFF;">Hey There</p>
@@ -22,7 +22,8 @@
         line-height: 28px;color: #171A1FFF;">Have a good day !</p>
     <p class="text9" style="position: absolute;text-align:center; top: 716px; left: 263px; font-family: Inter;font-size: 18px;   
         line-height: 28px;color: #9095A0FF;">Note: This is a system generated email. Please confirm the reservation on the basis of aforementioned details.</p>
-    <img src="{{URL::asset('basecrave_logo.png')}}" alt="basecrave" class="email_logo">
+    <img src="../basecrave_logo.png" alt="basecrave" class="email_logo" style="position: absolute;
+        top: 744px;left: 1074px;width: 366px;height: 156px;border-radius: 0px;float:right">
 
 </body>
 </html>
